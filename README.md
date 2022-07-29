@@ -1,0 +1,1 @@
+In order to show what I've learned about HTML and responsive web design in the language, I am creating this project to showcase recipes.
